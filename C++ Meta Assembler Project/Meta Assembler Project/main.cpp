@@ -7,9 +7,9 @@
 
 int main(int argc, char* argv[])
 {
-	DefinitionList deflist("definitions.txt");
-	Program creation("ProgramIn.txt");
+	DefinitionList deflist("ExampleDefinitions.txt");
+	Program creation("ExampleProgramIn.txt");
 	creation.ApplyDefinitions(deflist);
-	creation.Save("ProgramOut.cdm");
+	creation.Save("ExampleProgramOut.cdm");
 	return 0;
 }
