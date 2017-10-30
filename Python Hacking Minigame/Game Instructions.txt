@@ -1,0 +1,14 @@
+Here is how you play the game...
+
+-A block of characters will show up on the screen - this is the display of
+a computer you must hack in to.
+-Within the characters there will be some words; one of these words 
+is the password.
+-You have 4 attempts to guess the password, but each time you guess you will 
+be told how many of the letters in your guess were in the right position.
+-You can remove dud passwords or regain your lives by identifying one of 
+the hints.
+-Hints are random characters that are enclosed by a type of brackets, an 
+example clue would be: (%*/$<) because it is enclosed by '()'.
+
+Type 'Ready' to play, or 'Back' to return to the menu.

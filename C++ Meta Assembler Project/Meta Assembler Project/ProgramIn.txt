@@ -1,0 +1,22 @@
+thing:	JMP	44A
+num1:	ADDI	EEE
+num2:	MOVE	var1
+	ORG	var2
+	STORE	num2
+	ADDI	num1
+branch:	BZ	var2
+	ORG	300
+	(STA)	
+	(STA)+	
+num4:	DC	40AD
+	(STA)+	
+num3:	(STA)+	
+	(STA)+	
+	STORE	num3
+	(STA)+	
+	(STA)+	
+	MOVE	num4
+	(STA)+	
+var1:	EQU	110
+var2:	EQU	20
+	(STA)+	
