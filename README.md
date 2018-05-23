@@ -1,5 +1,6 @@
 # year1-meta-assembler
-This repository contains my first year C++ project I completed in term 3.  
+This repository contains my first year C++ project I completed in term three.  
+This project was for both the Computer Science Programming and Computer Technology & Maths modules.  
 It was designed to be a meta assembler, the user could specify different opcode and  
 appropriate machine code. The assembler would then compile a user program written in  
 this assembly language and compile it to machine code.  
